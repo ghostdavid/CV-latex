@@ -6,3 +6,7 @@
 
 样式定义文件：my_cv.cls <br>
 简历正文文件：CV.tex <br>
+
+## overleaf在线编译效果
+
+![](https://github.com/ghostdavid/tuchuang/blob/main/ghostdavid.github.io/cv-latex.png?raw=true)
