@@ -10,7 +10,7 @@
 \RequirePackage{enumitem}%不知道，引用了再说
 
 
-%页边距设置
+%页边距
 \RequirePackage[      
                 a4paper,
                 left=0.6in,
