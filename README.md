@@ -1,8 +1,10 @@
 # Latex自制极简中文简历模版，兼容overleaf
 
-样式定义文件：my_cv.cls <br>
+字体文件目录：/fonts  
 
-简历正文文件：CV.tex <br>
+样式定义文件：my_cv.cls   
+
+简历正文文件：CV.tex  
 
 ## overleaf在线编译效果
 
